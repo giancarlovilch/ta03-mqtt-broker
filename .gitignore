@@ -1,1 +1,12 @@
 config/passwordfile
+
+# app/
+app/.env
+app/venv/
+app/uploads/
+app/historial.json
+app/atendidos.json
+app/__pycache__/
+
+# firmware (Arduino build cache, por si acaso)
+firmware/**/build/

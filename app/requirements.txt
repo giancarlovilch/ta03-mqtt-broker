@@ -1,0 +1,6 @@
+flet
+flet-audio-recorder
+flet-charts
+paho-mqtt
+groq
+python-dotenv
